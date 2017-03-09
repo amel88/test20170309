@@ -5,5 +5,7 @@
 </head>
 <body>
 
+    <h1>Titre de la page</h1>
+
 </body>
 </html>
